@@ -1,0 +1,130 @@
+
+
+New Experiment:
+Batch Size: 130048
+Sampling Size: 32
+Number of Batches: 1
+
+
+Number of duplicates: 63807, 49.064192% of all elements in dataset
+
+Batch number: 0
+Number of active frames for AU1: 32941 in total, 25.329878% of all frames
+Number of active frames for AU2: 32898 in total, 25.296813% of all frames
+Number of active frames for AU4: 34114 in total, 26.231853% of all frames
+Number of active frames for AU5: 45842 in total, 35.250062% of all frames
+Number of active frames for AU6: 54603 in total, 41.986805% of all frames
+Number of active frames for AU9: 58915 in total, 45.302504% of all frames
+Number of active frames for AU12: 54471 in total, 41.885304% of all frames
+Number of active frames for AU15: 50184 in total, 38.588829% of all frames
+Number of active frames for AU17: 32908 in total, 25.304503% of all frames
+Number of active frames for AU20: 52648 in total, 40.483514% of all frames
+Number of active frames for AU25: 32895 in total, 25.294507% of all frames
+Number of active frames for AU26: 32912 in total, 25.307579% of all frames
+Number of active frames for Neutral: 32896 in total, 25.295276% of all frames
+
+
+
+
+New Experiment:
+Batch Size: 146848
+Sampling Size: 32
+Number of Batches: 1
+
+
+Number of duplicates: 80347, 54.714399% of all elements in dataset
+
+Batch number: 0
+Number of active frames for AU1: 37451 in total, 25.503241% of all frames
+Number of active frames for AU2: 37448 in total, 25.501199% of all frames
+Number of active frames for AU4: 38564 in total, 26.261168% of all frames
+Number of active frames for AU5: 52016 in total, 35.421660% of all frames
+Number of active frames for AU6: 61748 in total, 42.048921% of all frames
+Number of active frames for AU9: 66618 in total, 45.365276% of all frames
+Number of active frames for AU12: 61491 in total, 41.873910% of all frames
+Number of active frames for AU15: 56809 in total, 38.685580% of all frames
+Number of active frames for AU17: 37464 in total, 25.512094% of all frames
+Number of active frames for AU20: 59770 in total, 40.701950% of all frames
+Number of active frames for AU25: 38480 in total, 26.203966% of all frames
+Number of active frames for AU26: 37450 in total, 25.502560% of all frames
+Number of active frames for Neutral: 37440 in total, 25.495751% of all frames
+
+
+
+
+New Experiment:
+Batch Size: 140000
+Sampling Size: 32
+Number of Batches: 1
+
+
+Number of duplicates: 73633, 52.595000% of all elements in dataset
+
+Batch number: 0
+Number of active frames for AU1: 35493 in total, 25.352143% of all frames
+Number of active frames for AU2: 35498 in total, 25.355714% of all frames
+Number of active frames for AU4: 37246 in total, 26.604286% of all frames
+Number of active frames for AU5: 49631 in total, 35.450714% of all frames
+Number of active frames for AU6: 58997 in total, 42.140714% of all frames
+Number of active frames for AU9: 63567 in total, 45.405000% of all frames
+Number of active frames for AU12: 58474 in total, 41.767143% of all frames
+Number of active frames for AU15: 54106 in total, 38.647143% of all frames
+Number of active frames for AU17: 35515 in total, 25.367857% of all frames
+Number of active frames for AU20: 56890 in total, 40.635714% of all frames
+Number of active frames for AU25: 35820 in total, 25.585714% of all frames
+Number of active frames for AU26: 35507 in total, 25.362143% of all frames
+Number of active frames for Neutral: 35520 in total, 25.371429% of all frames
+
+
+
+
+New Experiment:
+Batch Size: 96928
+Sampling Size: 32
+Number of Batches: 1
+
+
+Number of duplicates: 34816, 35.919445% of all elements in dataset
+
+Batch number: 0
+Number of active frames for AU1: 24663 in total, 25.444660% of all frames
+Number of active frames for AU2: 24667 in total, 25.448787% of all frames
+Number of active frames for AU4: 24672 in total, 25.453945% of all frames
+Number of active frames for AU5: 33922 in total, 34.997111% of all frames
+Number of active frames for AU6: 40435 in total, 41.716532% of all frames
+Number of active frames for AU9: 43557 in total, 44.937479% of all frames
+Number of active frames for AU12: 40559 in total, 41.844462% of all frames
+Number of active frames for AU15: 37205 in total, 38.384161% of all frames
+Number of active frames for AU17: 24672 in total, 25.453945% of all frames
+Number of active frames for AU20: 39064 in total, 40.302080% of all frames
+Number of active frames for AU25: 24651 in total, 25.432280% of all frames
+Number of active frames for AU26: 24662 in total, 25.443628% of all frames
+Number of active frames for Neutral: 24640 in total, 25.420931% of all frames
+
+
+
+
+New Experiment:
+Batch Size: 48480
+Sampling Size: 32
+Number of Batches: 1
+
+
+Number of duplicates: 18673, 38.516914% of all elements in dataset
+
+Batch number: 0
+Number of active frames for AU1: 13899 in total, 28.669554% of all frames
+Number of active frames for AU2: 12584 in total, 25.957096% of all frames
+Number of active frames for AU4: 12627 in total, 26.045792% of all frames
+Number of active frames for AU5: 18797 in total, 38.772690% of all frames
+Number of active frames for AU6: 23783 in total, 49.057343% of all frames
+Number of active frames for AU9: 21843 in total, 45.055693% of all frames
+Number of active frames for AU12: 18987 in total, 39.164604% of all frames
+Number of active frames for AU15: 22324 in total, 46.047855% of all frames
+Number of active frames for AU17: 12593 in total, 25.975660% of all frames
+Number of active frames for AU20: 17489 in total, 36.074670% of all frames
+Number of active frames for AU25: 13219 in total, 27.266914% of all frames
+Number of active frames for AU26: 12608 in total, 26.006601% of all frames
+Number of active frames for Neutral: 12576 in total, 25.940594% of all frames
+
+
